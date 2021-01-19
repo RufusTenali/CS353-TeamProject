@@ -1,0 +1,16 @@
+Group 16
+  Name: ELLIOT JAMES MURPHY
+    Grade: 8
+    Reason: Was very puntcional, was happy to meet outside our assigneed times to do extra work to keep on top of the load.
+  Name: MIHAI LAURENTIU BOCIOROAGA
+    Grade: 9
+    Reason: Was very good at taking intiative and planning. Always did his work and contributed well to the git repo.
+  Name: AKIL RUFUS TENALI*
+    Grade: 7
+    Reason: I always did my work on time, if I was assigned something I am driven to do the task laid out infront of me and find it easy to operate with other people in a team.
+  Name: JET MIKO LAGBAS
+    Grade: 7
+    Reason: Always came bcak and finished his work on time. Had no problem with reaching out for assistance and was very pleasant to work with.
+  Name: HAIKUO HAN
+    Grade: 7
+    Reason: Did a good job on the front end and implementation, didn't speak enough but understandable with the langauge barrier.
